@@ -6,7 +6,7 @@
 import pytest
 
 # relative imports
-from aml_scripts.utils import set_env_vars, get_svc_pr, get_ws
+from aml.utils import set_env_vars, get_svc_pr, get_ws
 
 
 @pytest.mark.local
