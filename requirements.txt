@@ -4,7 +4,7 @@ numpy
 pandas
 ipython
 seaborn
+jupyterlab
 matplotlib
 azureml-sdk
-jupyter-lab
 scikit-learn
