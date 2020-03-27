@@ -1,7 +1,3 @@
-# main script to connect to workspace
-# Author: Nishanth Koganti
-# Date: 2020/3/15
-
 # import modules
 import argparse
 

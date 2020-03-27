@@ -1,7 +1,3 @@
-# test cases for initws assignment
-# Author: Nishanth Koganti
-# Date: 2020/3/15
-
 # import modules
 import pytest
 
