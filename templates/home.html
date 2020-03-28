@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>MishMash Hacathon</title>
+        <center>
+            <h1>MishMash Hacathon</h1>
+        </center>
+    </head>
+    <body>
+        <a href="/">
+        <button>Home</button>
+    </a>
+
+    <center>
+        <p>
+            Upload a time series excel/csv file here :
+
+        </p>
+        <form id= "upload-form" action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" >
+            <input type="button" value="upload" >
+        </form>
+    </center>
+
+
+    </body>
+
+
+
+</html>
