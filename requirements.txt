@@ -10,5 +10,5 @@ scikit-learn==0.20.3
 # plotly --upgrade
 # Flask==1.1.1
 azure-storage-blob==12.3.0
-streamlit
-seaborn
+streamlit==0.57.1
+seaborn==0.10.0
