@@ -4,6 +4,7 @@ config.ini
 *.py[cod]
 .vscode/
 __pycache__/
+.ipynb_checkpoints/
 
 # ignore aml configs
 .aml_config/
